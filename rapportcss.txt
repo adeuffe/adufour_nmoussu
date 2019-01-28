@@ -1,0 +1,9 @@
+.fiche_tech {
+	min-height: 40px;
+	padding: 10px;
+}
+
+summary {
+	font-weight: bold;
+	color: #331a00;
+}
